@@ -1,4 +1,4 @@
-# Making Alexa respond to Sign Language using Tensorflow.js
+# Sign Language to speech converter using Tensorflow.js
 
 Run the demo in latest Chrome/Firefox to train the model using your own words and corresponding signs/gestures. If you have an Echo plugged in closeby, it should respond, otherwise simply play around and have fun. You will need to give permission to access your webcam and microphone.
 
